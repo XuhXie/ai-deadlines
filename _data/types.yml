@@ -1,13 +1,7 @@
 ---
-- name: Machine Learning
-  sub: ML
-- name: Computer Vision
-  sub: CV
-- name: Natural Language Proc
-  sub: NLP
-- name: Robotics
-  sub: RO
-- name: Speech/SigProc
-  sub: SP
-- name: Data Mining
-  sub: DM
+- name: CCF-A
+  sub: A
+- name: CCF-B
+  sub: B
+- name: CCF-C
+  sub: C
