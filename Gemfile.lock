@@ -256,6 +256,3 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   html-proofer
-
-BUNDLED WITH
-   2.1.2
